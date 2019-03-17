@@ -32,7 +32,6 @@ Rscript hw1_5566.R --input hw1/data/test.1.csv --output hw1/eval/test1/hw1_001.c
 Rscript hw1_5566.R --output hw1/eval/test2/hw1_002.csv --input hw1/data/test.2.csv
 ```
 Correct answer gets 9 points of each testing data.
-
 ## Bonus
 
 - Output format without “: 3 points
